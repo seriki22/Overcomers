@@ -1,3 +1,5 @@
+# all dictionaries are meant to be added in this file
+
 ebira_dictionary ={
         "elote": 'corn on the corb',
         "taco al pastor" : 'marinated pork taco with pinapple',
