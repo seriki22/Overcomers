@@ -3,16 +3,16 @@ from tkinter import *
 from dictionaries import ebira_dictionary
 
 
-windows3 = Tk()
-windows3.geometry("300x300")
-windows3.title("MEXICAN DICTIONARY")
+windows = Tk()
+windows.geometry("300x300")
+windows.title("MEXICAN DICTIONARY")
 
 
-entry_text = Entry(windows3)
+entry_text = Entry(windows)
 entry_text.pack()
 
 result = StringVar()
-result_label = Label(windows3, textvariable=result)
+result_label = Label(windows, textvariable=result)
 result_label.pack()
 
 
@@ -27,9 +27,9 @@ def check(word):
             print("Not found")
 
 
-ebira_button = Button(windows3)
+ebira_button = Button(windows)
 ebira_button.config(text='check', command=lambda : check(entry_text.get().lower()))
 ebira_button.pack()
-windows3.mainloop()
+windows.mainloop()
 
-windows3.mainloop()
+windows.mainloop()
