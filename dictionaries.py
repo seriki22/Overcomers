@@ -48,7 +48,6 @@ spanish_dictionary = {
     "comida": "food",
     "familia": "family",
     "amigo": "friend",
-
     "feliz": "happy",
     "trabajo": "work",
     "escuela": "school"
