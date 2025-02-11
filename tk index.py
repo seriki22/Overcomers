@@ -1,6 +1,6 @@
 
 from tkinter import *
-from dictionaries import ebira_dictionary
+from dictionaries import *
 
 
 windows = Tk()

@@ -52,3 +52,26 @@ spanish_dictionary = {
     "trabajo": "work",
     "escuela": "school"
 }
+
+hausa_dictionary = {
+    "sannu": "hello",
+    "yaya": "how",
+    "lafiya": "fine",
+    "gida": "house",
+    "abinci": "food",
+    "ruwa": "water",
+    "mota": "car",
+    "sunana": "my name is",
+    "ina": "where",
+    "zo": "come",
+    "mutum": "person",
+    "kyau": "beautiful",
+    "karfi": "strong",
+    "kudi": "money",
+    "gari": "town",
+    "doki": "horse",
+    "hannu": "hand",
+    "ido": "eye",
+    "kunne": "ear",
+    "baki": "mouth"
+}
