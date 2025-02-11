@@ -53,3 +53,26 @@ spanish_dictionary = {
     "escuela": "school"
 }
 
+# Mexican Spanish to English dictionary
+dictionary = {
+    "hola": "hello",
+    "adiós": "goodbye",
+    "gracias": "thank you",
+    "por favor": "please",
+    "perro": "dog",
+    "gato": "cat",
+    "comida": "food",
+    "agua": "water",
+    "amigo": "friend",
+    "familia": "family",
+    "casa": "house",
+    "escuela": "school",
+    "trabajo": "work",
+    "dinero": "money",
+    "feliz": "happy",
+    "triste": "sad",
+    "rápido": "fast",
+    "lento": "slow",
+    "grande": "big",
+    "pequeño": "small"
+}
